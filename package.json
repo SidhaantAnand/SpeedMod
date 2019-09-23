@@ -1,0 +1,25 @@
+{
+  "name": "the-aimers",
+  "version": "1.0.0",
+  "description": "How do we manage a room of learners with different experience levels and learning speeds? CLC would like to provide support for mentors and instructors to identify learners that are struggling with pace and are not comfortable publicly voicing it. Please also consider ease of use for children or those that are newer to technology.",
+  "main": "instructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/df-hackdays/the-aimers.git"
+  },
+  "author": "Sid Anand, Akash Chamaria,Bhadresh Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/df-hackdays/the-aimers/issues"
+  },
+  "homepage": "https://github.com/df-hackdays/the-aimers#readme",
+  "devDependencies": {
+    "serialport": "^7.0.2"
+  },
+  "dependencies": {
+    "mongoose": "^5.3.0"
+  }
+}
